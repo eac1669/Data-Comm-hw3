@@ -123,7 +123,7 @@ Randomly corrupts packets
 
 May reorder packets
 
-🧪 Testing Reliability
+Testing Reliability
 
 To fully test the protocol:
 
